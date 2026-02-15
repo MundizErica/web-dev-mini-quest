@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+        { "source": "/(.*)", "destination": "/level-1plain.html" }
+
+    ]
+    
+}
